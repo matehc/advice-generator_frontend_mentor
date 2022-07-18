@@ -26,8 +26,8 @@ This is a project that makes a call from the advice api and displays an advice w
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://matehc.github.io/advice-generator_frontend_mentor/)
+- Solution URL: [My solution](https://your-solution-url.com)
+- Live Site URL: [View live site](https://matehc.github.io/advice-generator_frontend_mentor/)
 
 ## My process
 
@@ -56,13 +56,7 @@ I lerned how to use the picture element to offer alternative versions of an imag
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@matehc](https://www.frontendmentor.io/profile/matehc)
 - Twitter - [@OkaforLucas](https://twitter.com/OkaforLucas)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
