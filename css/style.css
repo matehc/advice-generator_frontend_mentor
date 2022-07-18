@@ -61,7 +61,7 @@ q {
     align-items: center;
     flex-direction: column;
     width: 90%;
-    min-height: 60vh;
+    min-height: 300px;
     background-color: var(--dark-grayish-blue);
     border-radius: 10px;
 }
@@ -106,3 +106,9 @@ img{
     padding-bottom: 10px;
 }
 
+
+@media (min-width: 700px) {
+    .advice-container {
+        width: 300px;
+    }
+}
