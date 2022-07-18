@@ -60,7 +60,7 @@ q {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    width: 18.75em;
+    width: 90%;
     min-height: 18.75em;
     background-color: var(--dark-grayish-blue);
     border-radius: 0.625em;
