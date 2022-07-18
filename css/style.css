@@ -51,7 +51,7 @@ q {
     color: var(--neon-green);
     text-transform: uppercase;
     font-size: .68rem;
-    letter-spacing: 3px;
+    letter-spacing: 0.1875em;
 }
 
 .advice-container {
@@ -60,15 +60,15 @@ q {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    width: 90%;
-    min-height: 300px;
+    width: 18.75em;
+    min-height: 18.75em;
     background-color: var(--dark-grayish-blue);
-    border-radius: 10px;
+    border-radius: 0.625em;
 }
 
 .divider {
     width: 90%;
-    margin-bottom: 40px;
+    margin-bottom: 2.5em;
 }
 
 img{
@@ -78,7 +78,7 @@ img{
 .advice__text{
     display: block;
     color: var(--light-cyan);
-    padding: 20px 5px;
+    padding: 1.25em 0.3125em;
     text-align: center;
     font-weight: 800;
     font-size: 1.2rem;
@@ -88,13 +88,13 @@ img{
 .button-container {
     position: absolute;
     left: 50%;
-    bottom: -30px;
+    bottom: -1.875em;
     transform: translateX(-50%);
 }
 
 .dice-button {
     border: none;
-    padding: 16px;
+    padding: 1em;
     cursor: pointer;
     border-radius: 50%;
     background-color: var(--neon-green);
@@ -102,13 +102,13 @@ img{
 
 
 .attribution {
-    margin-top: 60px;
-    padding-bottom: 10px;
+    margin-top: 3.75em;
+    padding-bottom: 0.625em;
 }
 
 
-@media (min-width: 700px) {
+@media (min-width: 43.75em) {
     .advice-container {
-        width: 300px;
+        width: 18.75em;
     }
 }
